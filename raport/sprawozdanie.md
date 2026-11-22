@@ -121,6 +121,14 @@ Silhouette jest niski (K-means 0,18, Ward 0,13; ARI 0,30), bo rynek jest ciągł
 
 Wykresy końcowe przygotowano w matplotlib/seaborn (`figures/07_*.png`). W **KNIME Analytics Platform 5.12** zbudowano workflow `knime/dostepnosc_mieszkan.knwf` (18 węzłów): import z dwóch źródeł (oferty — CSV, koszty życia — Excel), standaryzacja klucza miasta, połączenie źródeł (Joiner), wyliczenie liczby pensji na ofertę (Math Formula), wykresy dla pytań P1, P2, P4, P5, wizualizacja segmentów K-means w rzucie PCA (kolory grup nadane węzłami Color Palette Designer i Color Designer (Apply)) oraz tabela z zestawieniem wyników ML i grupowania. Opis w `knime/README.md`.
 
+![Workflow w KNIME Analytics Platform 5.12 — 18 węzłów, wszystkie wykonane](../knime/screenshots/workflow.jpg)
+
+![KNIME, Bar Chart: średnia liczba pensji netto na ofertę po połączeniu ofert z kosztami życia (Joiner + Math Formula)](../knime/screenshots/bar_chart_p1_pensje_na_oferte.jpg)
+
+![KNIME, Scatter Plot: segmenty ofert K-means w rzucie PCA](../knime/screenshots/scatter_segmenty_kmeans_pca.jpg)
+
+Poniżej wykresy końcowe z Pythona (matplotlib/seaborn).
+
 ![Dostępność dochodowa](../figures/07_p1_dostepnosc_dochodowa.png)
 
 ![Wkład własny](../figures/07_p4_wklad_wlasny.png)

@@ -10,7 +10,7 @@ Etap 7 projektu: *import danych z minimum dwóch różnych źródeł, zestawieni
 | `dostepnosc_mieszkan/` | ten sam workflow jako folder |
 | `data/` | dane wejściowe (generuje je notebook `07_wizualizacja_i_prezentacja.ipynb`) |
 
-**Otwarcie:** w KNIME *File → Import KNIME Workflow…* → wybierz `dostepnosc_mieszkan.knwf` (albo przeciągnij plik do okna KNIME). Workflow jest już wykonany — widok każdego wykresu otwiera się przez kliknięcie węzła (*Open view* / F10). Dane są w folderze danych workflow, więc działa na każdym komputerze bez zmiany ścieżek.
+**Otwarcie:** w KNIME *File → Import KNIME Workflow…* → wybierz `dostepnosc_mieszkan.knwf` (albo przeciągnij plik do okna KNIME). Workflow jest już wykonany — widok każdego wykresu otwiera się po zaznaczeniu węzła w panelu pod canvasem, a w większym oknie przyciskiem *Open in new window*. Dane są w folderze danych workflow, więc działa na każdym komputerze bez zmiany ścieżek.
 
 ## Struktura workflow (18 węzłów, wszystkie wykonane)
 
