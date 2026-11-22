@@ -1,0 +1,11 @@
+rodzaj,zadanie,model,miara
+nadzorowane,regresja: cena za m²,bazowy (mediana),R² = -0.007; MAE = 3787.0 PLN/m²
+nadzorowane,regresja: cena za m²,regresja liniowa,R² = 0.653; MAE = 2125.0 PLN/m²
+nadzorowane,regresja: cena za m²,drzewo decyzyjne (głęb. 15),R² = 0.784; MAE = 1553.0 PLN/m²
+nadzorowane,regresja: cena za m²,las losowy (porównawczo),R² = 0.858; MAE = 1244.0 PLN/m²
+nadzorowane,klasyfikacja: segment cenowy,bazowy (najczęstsza klasa),accuracy = 0.332; F1 = 0.166
+nadzorowane,klasyfikacja: segment cenowy,drzewo decyzyjne (głęb. 15),accuracy = 0.623; F1 = 0.625
+nienadzorowane,grupowanie: miasta (15),K-means (k = 4),silhouette = 0.362; ARI = 0.78
+nienadzorowane,grupowanie: miasta (15),hierarchiczne (Ward) (k = 4),silhouette = 0.355; ARI = 0.78
+nienadzorowane,grupowanie: oferty (próbka 10 tys.),K-means (k = 4),silhouette = 0.177; ARI = 0.3
+nienadzorowane,grupowanie: oferty (próbka 10 tys.),hierarchiczne (Ward) (k = 4),silhouette = 0.126; ARI = 0.3

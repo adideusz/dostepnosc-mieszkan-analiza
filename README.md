@@ -33,7 +33,7 @@ notebooks/                              analiza krok po kroku (uruchomione, z wy
 data/raw/          dane surowe (bez zmian)
 data/processed/    dane oczyszczone i wyniki (CSV)
 figures/           wszystkie wykresy (PNG)
-knime/             dane dla KNIME (CSV + Excel) i instrukcja budowy workflow/dashboardu
+knime/             workflow KNIME (.knwf + folder), dane wejściowe (CSV + Excel) i opis
 raport/            sprawozdanie (Markdown + Word)
 src/utils.py       wspólne funkcje (wczytywanie, normalizacja nazw miast, styl wykresów)
 ```

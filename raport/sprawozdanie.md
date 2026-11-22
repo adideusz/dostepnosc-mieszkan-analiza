@@ -119,7 +119,7 @@ Silhouette jest niski (K-means 0,18, Ward 0,13; ARI 0,30), bo rynek jest ciągł
 
 ## 7. Wizualizacja i prezentacja wyników (etap 7)
 
-Wykresy końcowe przygotowano w matplotlib/seaborn (`figures/07_*.png`). Do platformy **KNIME Analytics Platform** wyeksportowano dane z dwóch źródeł: oferty (CSV) i koszty życia (Excel), a także zestawienie wyników ML i grupowania. Instrukcja budowy workflow z łączeniem źródeł (Joiner), wykresami i dashboardem jest w `knime/README.md`.
+Wykresy końcowe przygotowano w matplotlib/seaborn (`figures/07_*.png`). W **KNIME Analytics Platform 5.12** zbudowano workflow `knime/dostepnosc_mieszkan.knwf` (14 węzłów): import z dwóch źródeł (oferty — CSV, koszty życia — Excel), standaryzacja klucza miasta, połączenie źródeł (Joiner), wyliczenie liczby pensji na ofertę (Math Formula), wykresy dla pytań P1, P2, P4, P5, wizualizacja segmentów K-means w rzucie PCA oraz tabela z zestawieniem wyników ML i grupowania. Opis w `knime/README.md`.
 
 ![Dostępność dochodowa](../figures/07_p1_dostepnosc_dochodowa.png)
 
