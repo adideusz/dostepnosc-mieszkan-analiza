@@ -1,0 +1,5 @@
+poziom,metoda,k,silhouette,ARI vs druga metoda
+miasta (15),K-means,4,0.3620842720479575,0.7774244833068362
+miasta (15),hierarchiczne (Ward),4,0.35533312428974356,0.7774244833068362
+oferty (próbka 10 tys.),K-means,4,0.17705364802388984,0.29630816077604544
+oferty (próbka 10 tys.),hierarchiczne (Ward),4,0.12562598754892843,0.29630816077604544
