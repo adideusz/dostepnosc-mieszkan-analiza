@@ -1,0 +1,7 @@
+model,MAE [PLN/m²],RMSE [PLN/m²],MAPE [%],R²,zadanie,accuracy,F1 makro
+bazowy (mediana),3786.631491651196,4687.7850481002215,32.2558767451104,-0.006807192675819085,regresja: cena za m²,,
+regresja liniowa,2125.0740745656353,2750.1306848408494,16.92797305259408,0.6534885466333569,regresja: cena za m²,,
+drzewo decyzyjne (głęb. 15),1553.1609462627407,2173.4030213546735,11.779800023552205,0.783582954683363,regresja: cena za m²,,
+las losowy (porównawczo),1244.087520498238,1762.0908825974345,9.512759342909103,0.857745000432318,regresja: cena za m²,,
+bazowy (najczęstsza klasa),,,,,klasyfikacja: segment cenowy,0.33150774960293555,0.16598113414500384
+drzewo decyzyjne (głęb. 15),,,,,klasyfikacja: segment cenowy,0.623363820581631,0.6245355741856242
