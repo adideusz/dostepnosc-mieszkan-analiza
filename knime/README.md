@@ -38,6 +38,41 @@ Etap 7 projektu: *import danych z minimum dwóch różnych źródeł, zestawieni
 | **Scatter Plot** (×2) | segmenty rynku K-means w rzucie PCA; pensja vs dostępność z kolorem grupy miast K-means |
 | **Table View** | zestawienie metryk: drzewo decyzyjne (R², MAE, accuracy, F1), K-means/Ward (silhouette, ARI) |
 
+## Zrzuty ekranu (KNIME 5.12, test 22.11.2026)
+
+Workflow otwarty z *Local space* w KNIME Analytics Platform 5.12 — wszystkie 14 węzłów wykonanych (zielone światła).
+
+![Workflow — 14 węzłów](screenshots/workflow_14_wezlow.jpg)
+
+**Bar Chart — P1: ile pensji netto kosztuje mieszkanie 50 m²**
+
+![Bar Chart P1](screenshots/bar_chart_p1_pensje_50m2.jpg)
+
+**Bar Chart — P2: rentowność najmu brutto [%]**
+
+![Bar Chart P2](screenshots/bar_chart_p2_rentownosc_najmu.jpg)
+
+**Bar Chart — P4: lata oszczędzania na wkład 20%**
+
+![Bar Chart P4](screenshots/bar_chart_p4_lata_na_wklad.jpg)
+
+**Scatter Plot — segmenty ofert w rzucie PCA (PC1 × PC2)**
+
+![Scatter Plot segmenty](screenshots/scatter_segmenty_kmeans_pca.jpg)
+
+**Scatter Plot — P5: pensja netto vs liczba pensji na 50 m²**
+
+![Scatter Plot P5](screenshots/scatter_p5_pensja_vs_dostepnosc.jpg)
+
+**Table View — zestawienie wyników uczenia maszynowego i grupowania**
+
+![Table View](screenshots/table_view_zestawienie_wynikow.jpg)
+
+### Uwagi z testu
+
+- **Bar Chart „P1: pensje na ofertę (KNIME)”** (za Math Formula) — KNIME zgłasza *Invalid node settings*: w `settings.xml` jest `aggregationMethod = AVERAGE`, a wersja 5.12 przyjmuje tylko `NONE / COUNT / SUM / AVG`. Węzeł wraca do ustawień domyślnych, więc wykres nie pokazuje średniej liczby pensji na miasto (dlatego nie ma go na zrzutach). Poprawka: w konfiguracji ustawić *Category* = `city_label`, *Aggregation* = *Average*, *Frequency* = `liczba_pensji_oferta`.
+- **Oba Scatter Ploty** są jednokolorowe: *Color dimension* (`segment_rynku`, `grupa_miast`) jest oznaczony jako *(Missing)*, bo widok koloruje tylko kolumny z przypisanymi kolorami. Poprawka: wstawić węzeł **Color Manager** przed każdym Scatter Plotem.
+
 ## Jak powstał
 
 Workflow został wygenerowany i wykonany automatycznie (bez klikania) przez publiczne API KNIME: węzły utworzono programowo, ustawienia uzupełniono w plikach `settings.xml`, a całość wykonano w trybie bez interfejsu graficznego. Można go dowolnie edytować w KNIME jak każdy inny workflow.
