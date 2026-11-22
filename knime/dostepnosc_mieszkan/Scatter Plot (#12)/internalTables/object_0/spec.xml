@@ -340,6 +340,65 @@
             </config>
         </config>
         <config key="column_properties"/>
+        <config key="color_handler">
+            <entry key="color_model_class" type="xstring" value="org.knime.core.data.property.ColorModelNominal"/>
+            <config key="color_model">
+                <config key="keys">
+                    <config key="?">
+                        <entry key="datacell" type="xstring" value="org.knime.core.data.MissingCell"/>
+                        <config key="org.knime.core.data.MissingCell"/>
+                    </config>
+                    <config key="Najdroższe metropolie">
+                        <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                        <config key="org.knime.core.data.def.StringCell">
+                            <entry key="StringCell" type="xstring" value="Najdroższe metropolie"/>
+                        </config>
+                    </config>
+                    <config key="Niskie płace, średnie ceny">
+                        <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                        <config key="org.knime.core.data.def.StringCell">
+                            <entry key="StringCell" type="xstring" value="Niskie płace, średnie ceny"/>
+                        </config>
+                    </config>
+                    <config key="Tanie, najlepsza dostępność">
+                        <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                        <config key="org.knime.core.data.def.StringCell">
+                            <entry key="StringCell" type="xstring" value="Tanie, najlepsza dostępność"/>
+                        </config>
+                    </config>
+                    <config key="Zamożne, umiarkowane ceny">
+                        <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                        <config key="org.knime.core.data.def.StringCell">
+                            <entry key="StringCell" type="xstring" value="Zamożne, umiarkowane ceny"/>
+                        </config>
+                    </config>
+                </config>
+                <entry key="?" type="xint" value="-2945710"/>
+                <entry key="Najdroższe metropolie" type="xint" value="-1828324"/>
+                <entry key="Niskie płace, średnie ceny" type="xint" value="-13140296"/>
+                <entry key="Tanie, najlepsza dostępność" type="xint" value="-11686070"/>
+                <entry key="Zamożne, umiarkowane ceny" type="xint" value="-6795613"/>
+                <config key="customColorValues">
+                    <entry key="array-size" type="xint" value="1"/>
+                    <config key="0">
+                        <entry key="datacell" type="xstring" value="org.knime.core.data.MissingCell"/>
+                        <config key="org.knime.core.data.MissingCell"/>
+                    </config>
+                </config>
+                <config key="palette">
+                    <entry key="array-size" type="xint" value="9"/>
+                    <entry key="0" type="xint" value="-1828324"/>
+                    <entry key="1" type="xint" value="-13140296"/>
+                    <entry key="2" type="xint" value="-11686070"/>
+                    <entry key="3" type="xint" value="-6795613"/>
+                    <entry key="4" type="xint" value="-33024"/>
+                    <entry key="5" type="xint" value="-205"/>
+                    <entry key="6" type="xint" value="-5876184"/>
+                    <entry key="7" type="xint" value="-556609"/>
+                    <entry key="8" type="xint" value="-6710887"/>
+                </config>
+            </config>
+        </config>
         <config key="meta_data"/>
     </config>
     <config key="column_spec_4">
