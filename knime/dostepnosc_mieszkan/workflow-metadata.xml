@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+<workflow-metadata content-type="text/html" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
     <created>2026-11-22T12:59:16.196+01:00</created>
-    <last-modified>2026-11-22T12:59:16.196+01:00</last-modified>
-    <description/>
+    <last-modified>2026-11-22T13:39:02.547+01:00</last-modified>
+    <description><![CDATA[<p>Analiza dostępności cenowej mieszkań w 15 największych miastach Polski w relacji do lokalnych wynagrodzeń i kosztów życia (etap 7: import z dwóch źródeł, zestawienie wyników ML i grupowania, wykresy).</p><p>Autorzy: Adrian Tusiński, Aleksander Klank</p><p>Przedmiot: Metody analizy, przetwarzania i wizualizacji danych (mgr Paulina Kuśmierz)</p>]]></description>
 </workflow-metadata>

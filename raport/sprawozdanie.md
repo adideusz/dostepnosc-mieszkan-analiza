@@ -2,7 +2,7 @@
 
 **Przedmiot:** Metody analizy, przetwarzania i wizualizacji danych
 **Prowadząca:** mgr Paulina Kuśmierz
-**Autor:** Adrian Tusiński
+**Autorzy:** Adrian Tusiński, Aleksander Klank
 **Narzędzia:** Python 3 (pandas, numpy, scikit-learn, scipy, matplotlib, seaborn), Jupyter, KNIME Analytics Platform
 
 ---

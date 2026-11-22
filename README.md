@@ -2,6 +2,9 @@
 
 Projekt z przedmiotu **Metody analizy, przetwarzania i wizualizacji danych**.
 
+**Autorzy:** Adrian Tusiński, Aleksander Klank  
+**Prowadząca:** mgr Paulina Kuśmierz
+
 **Temat:** analiza dostępności cenowej mieszkań w 15 największych miastach Polski w relacji do lokalnych wynagrodzeń i kosztów życia.
 
 Najważniejsze wyniki:

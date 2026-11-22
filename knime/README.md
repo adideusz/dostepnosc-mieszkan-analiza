@@ -2,6 +2,8 @@
 
 Etap 7 projektu: *import danych z minimum dwóch różnych źródeł, zestawienie wyników algorytmów uczenia maszynowego i grupowania, wizualizacja wyników w formie wykresów* — platforma **KNIME Analytics Platform 5.12**.
 
+**Autorzy:** Adrian Tusiński, Aleksander Klank
+
 ## Gotowy workflow
 
 | Plik | Opis |

@@ -104,6 +104,9 @@ def main() -> None:
             add_runs(doc.add_paragraph(), line)
         i += 1
 
+    doc.core_properties.author = "Adrian Tusiński, Aleksander Klank"
+    doc.core_properties.last_modified_by = "Adrian Tusiński"
+    doc.core_properties.title = "Analiza dostępności cenowej mieszkań w największych miastach Polski"
     doc.save(OUT)
     print(f"Zapisano {OUT}")
 

@@ -3,6 +3,6 @@
     The metadata have moved to the `workflow-metadata.xml` file.-->
 <KNIMEMetaInfo nrOfElements="3" xmlns="http://www.knime.org/2.9/metainfo">
     <element form="date" name="Creation Date" read-only="false">22/10/2026/12:59:16 +01:00</element>
-    <element form="multiline" name="Comments" read-only="false"/>
-    <element form="text" name="Last Edited" read-only="true">2026-11-22 12:59:16 +0100</element>
+    <element form="multiline" name="Comments" read-only="false"><![CDATA[<p>Analiza dostępności cenowej mieszkań w 15 największych miastach Polski w relacji do lokalnych wynagrodzeń i kosztów życia (etap 7: import z dwóch źródeł, zestawienie wyników ML i grupowania, wykresy).</p><p>Autorzy: Adrian Tusiński, Aleksander Klank</p><p>Przedmiot: Metody analizy, przetwarzania i wizualizacji danych (mgr Paulina Kuśmierz)</p>]]></element>
+    <element form="text" name="Last Edited" read-only="true">2026-11-22 13:39:02 +0100</element>
 </KNIMEMetaInfo>
