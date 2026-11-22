@@ -1,0 +1,296 @@
+city,voivodeship,powiat_type,city_tier,population_approx,avg_salary_gross_pln,median_salary_gross_pln,median_salary_net_pln,cost_of_living_index,rent_1br_city_center_pln,rent_1br_outside_center_pln,meal_cheap_restaurant_pln,groceries_monthly_pln,public_transport_monthly_pln,est_monthly_cost_single_pln,affordability_ratio,rent_to_income_pct,data_source,data_year,city_norm,city_key
+Warszawa,Mazowieckie,miasto na prawach powiatu,metropolis,1800000,10800,8208,5893,98.5,3864,2640,44,1361,154,5335,1.1,24.4,numbeo,2024,warszawa,warszawa|mazowieckie
+Kraków,Małopolskie,miasto na prawach powiatu,metropolis,800000,10200,7752,5566,92.0,3668,2716,43,1439,157,5472,1.02,26.6,numbeo,2024,krakow,krakow|malopolskie
+Łódź,Łódzkie,miasto na prawach powiatu,metropolis,685000,8100,6156,4420,76.0,3654,2637,45,1368,159,5364,0.82,32.6,numbeo,2024,lodz,lodz|lodzkie
+Wrocław,Dolnośląskie,miasto na prawach powiatu,metropolis,650000,10400,7904,5675,90.0,3945,2884,46,1361,145,5610,1.01,27.7,numbeo,2024,wroclaw,wroclaw|dolnoslaskie
+Poznań,Wielkopolskie,miasto na prawach powiatu,metropolis,540000,9800,7448,5348,87.0,3581,2683,43,1424,151,5418,0.99,27.4,numbeo,2024,poznan,poznan|wielkopolskie
+Gdańsk,Pomorskie,miasto na prawach powiatu,metropolis,470000,10000,7600,5457,89.0,3917,2790,46,1458,144,5612,0.97,27.9,numbeo,2024,gdansk,gdansk|pomorskie
+Szczecin,Zachodniopomorskie,miasto na prawach powiatu,metropolis,400000,8400,6384,4584,78.0,3867,2736,45,1411,154,5501,0.83,32.6,numbeo,2024,szczecin,szczecin|zachodniopomorskie
+Bydgoszcz,Kujawsko-Pomorskie,miasto na prawach powiatu,metropolis,360000,8200,6232,4475,76.0,3888,2850,47,1449,156,5695,0.79,34.8,numbeo,2024,bydgoszcz,bydgoszcz|kujawsko-pomorskie
+Lublin,Lubelskie,miasto na prawach powiatu,metropolis,340000,8000,6080,4365,74.0,3642,2771,43,1399,148,5478,0.8,34.6,numbeo,2024,lublin,lublin|lubelskie
+Białystok,Podlaskie,miasto na prawach powiatu,metropolis,295000,7900,6004,4311,73.0,3709,2703,43,1366,147,5376,0.8,34.2,numbeo,2024,bialystok,bialystok|podlaskie
+Katowice,Śląskie,miasto na prawach powiatu,metropolis,290000,8600,6536,4693,80.0,3840,2709,44,1340,152,5381,0.87,31.5,numbeo,2024,katowice,katowice|slaskie
+Gdynia,Pomorskie,miasto na prawach powiatu,metropolis,250000,9600,7296,5239,86.0,3839,2845,45,1343,147,5535,0.95,29.6,numbeo,2024,gdynia,gdynia|pomorskie
+Częstochowa,Śląskie,miasto na prawach powiatu,city_large,220000,7100,5396,3874,63.0,2543,1957,36,1245,127,4349,0.89,27.6,numbeo,2024,czestochowa,czestochowa|slaskie
+Radom,Mazowieckie,miasto na prawach powiatu,city_large,210000,7100,5396,3874,66.2,2655,1989,36,1240,113,4362,0.89,28.0,numbeo,2024,radom,radom|mazowieckie
+Toruń,Kujawsko-Pomorskie,miasto na prawach powiatu,city_large,200000,7900,6004,4311,72.0,2563,1858,39,1282,125,4345,0.99,23.5,numbeo,2024,torun,torun|kujawsko-pomorskie
+Rzeszów,Podkarpackie,miasto na prawach powiatu,metropolis,200000,8000,6080,4365,74.0,3676,2746,45,1388,143,5477,0.8,34.3,numbeo,2024,rzeszow,rzeszow|podkarpackie
+Sosnowiec,Śląskie,miasto na prawach powiatu,city_large,200000,7100,5396,3874,63.0,2591,1965,39,1211,114,4370,0.89,27.7,numbeo,2024,sosnowiec,sosnowiec|slaskie
+Kielce,Świętokrzyskie,miasto na prawach powiatu,city_large,195000,7500,5700,4093,66.0,2596,1838,37,1197,125,4200,0.97,24.5,numbeo,2024,kielce,kielce|swietokrzyskie
+Gliwice,Śląskie,miasto na prawach powiatu,city_large,180000,8100,6156,4420,73.0,2515,1992,39,1196,116,4384,1.01,24.6,numbeo,2024,gliwice,gliwice|slaskie
+Olsztyn,Warmińsko-Mazurskie,miasto na prawach powiatu,city_large,170000,7400,5624,4038,64.0,2465,1887,37,1222,114,4263,0.95,25.5,numbeo,2024,olsztyn,olsztyn|warminsko-mazurskie
+Zabrze,Śląskie,miasto na prawach powiatu,city_large,170000,7400,5624,4038,66.0,2653,1835,37,1304,121,4300,0.94,24.8,numbeo,2024,zabrze,zabrze|slaskie
+Bielsko-Biała,Śląskie,miasto na prawach powiatu,city_large,170000,8000,6080,4365,72.0,2667,1840,38,1271,117,4288,1.02,23.0,numbeo,2024,bielsko-biala,bielsko-biala|slaskie
+Bytom,Śląskie,miasto na prawach powiatu,city_large,160000,6800,5168,3711,60.0,2578,1883,38,1279,122,4344,0.85,27.7,numbeo,2024,bytom,bytom|slaskie
+Zielona Góra,Lubuskie,miasto na prawach powiatu,city_large,140000,7300,5548,3983,64.0,2487,1947,38,1188,114,4309,0.92,26.7,numbeo,2024,zielona gora,zielona gora|lubuskie
+Rybnik,Śląskie,miasto na prawach powiatu,city_large,140000,7800,5928,4256,69.0,2751,1808,38,1230,125,4223,1.01,23.2,numbeo,2024,rybnik,rybnik|slaskie
+Ruda Śląska,Śląskie,miasto na prawach powiatu,city_medium,140000,7300,5548,3983,63.5,2080,1566,33,1200,101,3827,1.04,21.5,numbeo,2024,ruda slaska,ruda slaska|slaskie
+Opole,Opolskie,miasto na prawach powiatu,city_large,130000,7200,5472,3929,63.0,2605,2012,38,1219,124,4415,0.89,27.9,numbeo,2024,opole,opole|opolskie
+Tychy,Śląskie,miasto na prawach powiatu,city_large,129000,8000,6080,4365,70.0,2522,1829,38,1240,117,4246,1.03,22.9,numbeo,2024,tychy,tychy|slaskie
+Gorzów Wielkopolski,Lubuskie,miasto na prawach powiatu,city_large,125000,7200,5472,3929,63.0,2524,1976,38,1278,120,4434,0.89,27.4,numbeo,2024,gorzow wielkopolski,gorzow wielkopolski|lubuskie
+Dąbrowa Górnicza,Śląskie,miasto na prawach powiatu,city_large,122000,7200,5472,3929,62.0,2522,1997,38,1295,121,4473,0.88,27.7,numbeo,2024,dabrowa gornicza,dabrowa gornicza|slaskie
+Wałbrzych,Dolnośląskie,miasto na prawach powiatu,city_large,120000,6900,5244,3765,60.0,2573,1930,37,1275,120,4365,0.86,28.0,numbeo,2024,walbrzych,walbrzych|dolnoslaskie
+Płock,Mazowieckie,miasto na prawach powiatu,city_medium,120000,7300,5548,3983,61.0,2029,1551,31,1115,107,3693,1.08,21.2,numbeo,2024,plock,plock|mazowieckie
+Elbląg,Warmińsko-Mazurskie,miasto na prawach powiatu,city_large,119000,6900,5244,3765,60.0,2602,1857,38,1195,125,4237,0.89,26.9,numbeo,2024,elblag,elblag|warminsko-mazurskie
+Włocławek,Kujawsko-Pomorskie,miasto na prawach powiatu,city_medium,110000,6500,4940,3547,57.0,1983,1470,33,1198,111,3739,0.95,22.6,numbeo,2024,wloclawek,wloclawek|kujawsko-pomorskie
+Tarnów,Małopolskie,miasto na prawach powiatu,city_large,110000,7000,5320,3820,61.0,2571,1928,37,1304,125,4397,0.87,27.5,numbeo,2024,tarnow,tarnow|malopolskie
+Wodzisław Śląski,Śląskie,powiat,city_medium,110000,7038,5349,3841,63.0,2008,1478,32,1156,102,3676,1.04,21.0,gus_modeled,2024,wodzislaw slaski,wodzislaw slaski|slaskie
+Chorzów,Śląskie,miasto na prawach powiatu,city_medium,108000,7500,5700,4093,65.0,1987,1643,34,1204,110,3937,1.04,21.9,numbeo,2024,chorzow,chorzow|slaskie
+Koszalin,Zachodniopomorskie,miasto na prawach powiatu,city_medium,107000,7000,5320,3820,61.0,1997,1512,34,1113,100,3705,1.03,21.6,numbeo,2024,koszalin,koszalin|zachodniopomorskie
+Kalisz,Wielkopolskie,miasto na prawach powiatu,city_large,102000,7000,5320,3820,62.0,2512,1945,39,1208,122,4355,0.88,27.8,numbeo,2024,kalisz,kalisz|wielkopolskie
+Legnica,Dolnośląskie,miasto na prawach powiatu,city_large,100000,7600,5776,4147,67.0,2452,1842,38,1294,114,4310,0.96,24.2,numbeo,2024,legnica,legnica|dolnoslaskie
+Jaworzno,Śląskie,miasto na prawach powiatu,city_medium,100000,7600,5776,4147,65.0,2188,1488,33,1117,104,3669,1.13,19.6,numbeo,2024,jaworzno,jaworzno|slaskie
+Grudziądz,Kujawsko-Pomorskie,miasto na prawach powiatu,city_medium,96000,6600,5016,3601,58.0,2162,1538,32,1165,110,3753,0.96,23.3,numbeo,2024,grudziadz,grudziadz|kujawsko-pomorskie
+Jastrzębie-Zdrój,Śląskie,miasto na prawach powiatu,city_medium,92000,7900,6004,4311,67.0,1989,1527,35,1123,109,3759,1.15,19.3,numbeo,2024,jastrzebie-zdroj,jastrzebie-zdroj|slaskie
+Słupsk,Pomorskie,miasto na prawach powiatu,city_medium,90000,6900,5244,3765,60.0,2047,1633,34,1156,104,3873,0.97,23.7,numbeo,2024,slupsk,slupsk|pomorskie
+Nowy Sącz,Małopolskie,miasto na prawach powiatu,city_medium,83000,6700,5092,3656,58.0,2220,1608,34,1095,108,3791,0.96,24.0,numbeo,2024,nowy sacz,nowy sacz|malopolskie
+Jelenia Góra,Dolnośląskie,miasto na prawach powiatu,city_medium,80000,7100,5396,3874,62.0,2035,1579,31,1179,108,3786,1.02,22.2,numbeo,2024,jelenia gora,jelenia gora|dolnoslaskie
+Siedlce,Mazowieckie,miasto na prawach powiatu,city_small,80000,6600,5016,3601,57.0,1709,1256,30,1082,85,3323,1.08,19.0,numbeo,2024,siedlce,siedlce|mazowieckie
+Konin,Wielkopolskie,miasto na prawach powiatu,city_medium,75000,6900,5244,3765,60.0,2162,1478,34,1203,100,3761,1.0,21.4,numbeo,2024,konin,konin|wielkopolskie
+Piotrków Trybunalski,Łódzkie,miasto na prawach powiatu,city_medium,75000,6800,5168,3711,59.0,2113,1587,32,1192,105,3824,0.97,23.3,numbeo,2024,piotrkow trybunalski,piotrkow trybunalski|lodzkie
+Mysłowice,Śląskie,miasto na prawach powiatu,city_small,74000,6447,4900,3518,53.8,1793,1377,30,1073,86,3436,1.02,21.4,gus_modeled,2024,myslowice,myslowice|slaskie
+Lubin,Dolnośląskie,powiat,city_medium,73000,9200,6992,5020,73.0,2001,1536,32,1203,105,3784,1.33,16.7,numbeo,2024,lubin,lubin|dolnoslaskie
+Inowrocław,Kujawsko-Pomorskie,powiat,city_medium,73000,6317,4801,3447,60.2,2202,1466,34,1126,103,3675,0.94,23.2,gus_modeled,2024,inowroclaw,inowroclaw|kujawsko-pomorskie
+Piła,Wielkopolskie,powiat,city_medium,72000,6900,5244,3765,60.0,2154,1471,34,1165,100,3716,1.01,21.3,numbeo,2024,pila,pila|wielkopolskie
+Ostrów Wielkopolski,Wielkopolskie,powiat,city_medium,71000,6900,5244,3765,61.0,1980,1515,34,1203,104,3802,0.99,22.0,numbeo,2024,ostrow wielkopolski,ostrow wielkopolski|wielkopolskie
+Suwałki,Podlaskie,miasto na prawach powiatu,city_medium,70000,7000,5320,3820,60.0,1976,1596,32,1136,108,3780,1.01,22.8,numbeo,2024,suwalki,suwalki|podlaskie
+Gniezno,Wielkopolskie,powiat,city_medium,70000,6700,5092,3656,59.0,2169,1615,33,1106,111,3792,0.96,24.1,numbeo,2024,gniezno,gniezno|wielkopolskie
+Stargard,Zachodniopomorskie,powiat,city_medium,68000,6735,5119,3675,60.9,2221,1637,34,1135,109,3861,0.95,24.3,gus_modeled,2024,stargard,stargard|zachodniopomorskie
+Siemianowice Śląskie,Śląskie,miasto na prawach powiatu,city_small,67000,6365,4837,3473,55.9,1716,1307,31,1004,91,3322,1.05,20.5,gus_modeled,2024,siemianowice slaskie,siemianowice slaskie|slaskie
+Głogów,Dolnośląskie,powiat,city_small,66000,8200,6232,4475,68.0,1752,1355,31,1041,93,3409,1.31,16.5,numbeo,2024,glogow,glogow|dolnoslaskie
+Zamość,Lubelskie,miasto na prawach powiatu,city_medium,65000,6400,4864,3492,56.0,2214,1463,33,1143,111,3677,0.95,22.9,numbeo,2024,zamosc,zamosc|lubelskie
+Pabianice,Łódzkie,powiat,city_medium,65000,6700,5092,3656,58.0,2194,1564,33,1143,101,3768,0.97,23.3,numbeo,2024,pabianice,pabianice|lodzkie
+Stalowa Wola,Podkarpackie,powiat,city_medium,64000,5610,4264,3062,59.1,1997,1475,34,1186,106,3747,0.82,26.3,gus_modeled,2024,stalowa wola,stalowa wola|podkarpackie
+Leszno,Wielkopolskie,miasto na prawach powiatu,city_medium,64000,6968,5296,3803,60.2,2082,1526,33,1132,109,3727,1.02,21.9,gus_modeled,2024,leszno,leszno|wielkopolskie
+Tomaszów Mazowiecki,Łódzkie,powiat,city_medium,64000,6388,4855,3486,60.8,1988,1485,33,1127,111,3683,0.95,23.2,gus_modeled,2024,tomaszow mazowiecki,tomaszow mazowiecki|lodzkie
+Ostrowiec Świętokrzyski,Świętokrzyskie,powiat,city_medium,64000,5691,4325,3105,59.1,2184,1621,31,1131,108,3780,0.82,28.5,gus_modeled,2024,ostrowiec swietokrzyski,ostrowiec swietokrzyski|swietokrzyskie
+Łomża,Podlaskie,miasto na prawach powiatu,city_medium,63000,6500,4940,3547,56.0,2100,1612,34,1101,110,3803,0.93,24.8,numbeo,2024,lomza,lomza|podlaskie
+Tarnowskie Góry,Śląskie,powiat,city_small,63000,7600,5776,4147,66.0,1801,1233,29,1025,95,3233,1.28,16.2,numbeo,2024,tarnowskie gory,tarnowskie gory|slaskie
+Chełm,Lubelskie,miasto na prawach powiatu,city_medium,62000,6114,4647,3337,56.6,2147,1558,35,1134,104,3796,0.88,25.5,gus_modeled,2024,chelm,chelm|lubelskie
+Kędzierzyn-Koźle,Opolskie,powiat,city_medium,62000,6189,4704,3377,58.9,2171,1618,32,1107,103,3768,0.9,26.1,gus_modeled,2024,kedzierzyn-kozle,kedzierzyn-kozle|opolskie
+Przemyśl,Podkarpackie,miasto na prawach powiatu,city_medium,62000,6200,4712,3383,55.0,2082,1581,33,1110,110,3761,0.9,25.5,numbeo,2024,przemysl,przemysl|podkarpackie
+Mielec,Podkarpackie,powiat,city_medium,62000,7000,5320,3820,60.0,2122,1561,32,1107,103,3711,1.03,22.3,numbeo,2024,mielec,mielec|podkarpackie
+Żory,Śląskie,miasto na prawach powiatu,city_small,61000,6561,4986,3580,53.0,1622,1361,29,1060,91,3392,1.06,20.7,gus_modeled,2024,zory,zory|slaskie
+Pruszków,Mazowieckie,powiat,city_small,60000,8200,6232,4475,72.0,1762,1331,30,1014,95,3340,1.34,16.2,numbeo,2024,pruszkow,pruszkow|mazowieckie
+Tczew,Pomorskie,powiat,city_small,60000,6620,5031,3612,54.1,1796,1285,30,1101,92,3378,1.07,19.4,gus_modeled,2024,tczew,tczew|pomorskie
+Ełk,Warmińsko-Mazurskie,powiat,city_medium,60000,6500,4940,3547,56.0,1993,1618,34,1163,105,3866,0.92,24.9,numbeo,2024,elk,elk|warminsko-mazurskie
+Bełchatów,Łódzkie,powiat,city_small,60000,7100,5396,3874,61.0,1688,1356,31,1030,91,3397,1.14,19.1,numbeo,2024,belchatow,belchatow|lodzkie
+Świdnica,Dolnośląskie,powiat,city_small,58000,7000,5320,3820,61.0,1734,1376,30,1097,94,3467,1.1,19.7,numbeo,2024,swidnica,swidnica|dolnoslaskie
+Biała Podlaska,Lubelskie,miasto na prawach powiatu,city_medium,57000,6200,4712,3383,54.0,2022,1480,34,1145,107,3712,0.91,23.9,numbeo,2024,biala podlaska,biala podlaska|lubelskie
+Zgierz,Łódzkie,powiat,city_medium,57000,6700,5092,3656,58.5,1987,1632,33,1187,104,3883,0.94,24.4,numbeo,2024,zgierz,zgierz|lodzkie
+Będzin,Śląskie,powiat,city_small,57000,6537,4968,3567,54.5,1770,1245,31,1001,95,3261,1.09,19.0,gus_modeled,2024,bedzin,bedzin|slaskie
+Piekary Śląskie,Śląskie,miasto na prawach powiatu,city_small,56000,6472,4919,3532,55.5,1630,1372,29,1017,91,3360,1.05,21.2,gus_modeled,2024,piekary slaskie,piekary slaskie|slaskie
+Legionowo,Mazowieckie,powiat,town,55000,7447,5660,4064,52.0,1363,1076,25,953,68,2897,1.4,14.4,gus_modeled,2024,legionowo,legionowo|mazowieckie
+Zawiercie,Śląskie,powiat,city_small,55000,6900,5244,3765,60.0,1799,1324,29,1083,88,3375,1.12,19.2,numbeo,2024,zawiercie,zawiercie|slaskie
+Racibórz,Śląskie,powiat,city_small,55000,7100,5396,3874,61.0,1721,1334,29,1064,87,3365,1.15,18.8,numbeo,2024,raciborz,raciborz|slaskie
+Starachowice,Świętokrzyskie,powiat,city_medium,53000,5705,4336,3113,57.5,2015,1612,34,1186,101,3879,0.8,28.3,gus_modeled,2024,starachowice,starachowice|swietokrzyskie
+Ostrołęka,Mazowieckie,miasto na prawach powiatu,city_small,52000,8280,6293,4518,58.5,1796,1356,29,1073,92,3401,1.33,16.4,gus_modeled,2024,ostroleka,ostroleka|mazowieckie
+Piaseczno,Mazowieckie,powiat,city_small,50000,7749,5889,4228,57.9,1800,1322,30,1069,94,3385,1.25,17.1,gus_modeled,2024,piaseczno,piaseczno|mazowieckie
+Tarnobrzeg,Podkarpackie,miasto na prawach powiatu,city_small,50000,5484,4168,2993,52.0,1775,1334,31,1061,88,3403,0.88,24.3,gus_modeled,2024,tarnobrzeg,tarnobrzeg|podkarpackie
+Wejherowo,Pomorskie,powiat,city_medium,50000,7239,5502,3950,61.7,2021,1524,34,1164,108,3776,1.05,21.1,gus_modeled,2024,wejherowo,wejherowo|pomorskie
+Skierniewice,Łódzkie,miasto na prawach powiatu,city_small,50000,5971,4538,3258,54.2,1722,1345,29,1052,89,3366,0.97,22.5,gus_modeled,2024,skierniewice,skierniewice|lodzkie
+Puławy,Lubelskie,powiat,city_small,49000,5600,4256,3056,51.7,1602,1345,29,1011,91,3327,0.92,24.0,gus_modeled,2024,pulawy,pulawy|lubelskie
+Starogard Gdański,Pomorskie,powiat,city_small,49000,7100,5396,3874,62.0,1640,1308,31,1044,92,3364,1.15,18.4,numbeo,2024,starogard gdanski,starogard gdanski|pomorskie
+Kołobrzeg,Zachodniopomorskie,powiat,city_small,48000,7100,5396,3874,65.0,1708,1374,30,1093,94,3461,1.12,19.4,numbeo,2024,kolobrzeg,kolobrzeg|zachodniopomorskie
+Radomsko,Łódzkie,powiat,city_small,48000,5953,4524,3248,51.3,1686,1272,29,1007,95,3254,1.0,21.4,gus_modeled,2024,radomsko,radomsko|lodzkie
+Rumia,Pomorskie,powiat,city_small,47000,7800,5928,4256,70.0,1768,1300,31,1051,88,3359,1.27,16.7,numbeo,2024,rumia,rumia|pomorskie
+Krosno,Małopolskie,powiat,city_small,46000,6600,5016,3601,57.5,1771,1334,29,1030,89,3333,1.08,20.2,numbeo,2024,krosno,krosno|malopolskie
+Krosno,Podkarpackie,miasto na prawach powiatu,city_small,46000,6600,5016,3601,57.5,1716,1255,30,1021,86,3262,1.1,19.0,numbeo,2024,krosno,krosno|podkarpackie
+Dębica,Podkarpackie,powiat,city_small,46000,5274,4008,2878,51.8,1661,1275,29,1089,91,3335,0.86,24.2,gus_modeled,2024,debica,debica|podkarpackie
+Skarżysko-Kamienna,Świętokrzyskie,powiat,city_medium,46000,5849,4445,3192,57.6,2144,1501,33,1125,108,3694,0.86,25.7,gus_modeled,2024,skarzysko-kamienna,skarzysko-kamienna|swietokrzyskie
+Otwock,Mazowieckie,powiat,town,45000,7558,5744,4124,51.5,1356,1110,26,985,73,2988,1.38,14.7,gus_modeled,2024,otwock,otwock|mazowieckie
+Ciechanów,Mazowieckie,powiat,city_small,45000,7675,5833,4188,56.8,1726,1346,30,1004,89,3339,1.25,17.5,gus_modeled,2024,ciechanow,ciechanow|mazowieckie
+Nysa,Opolskie,powiat,city_medium,45000,6544,4973,3571,60.4,2199,1529,35,1150,105,3784,0.94,23.4,gus_modeled,2024,nysa,nysa|opolskie
+Kutno,Łódzkie,powiat,city_small,45000,6301,4789,3439,53.7,1733,1368,30,1055,92,3415,1.01,21.7,gus_modeled,2024,kutno,kutno|lodzkie
+Sieradz,Łódzkie,powiat,city_small,43000,6213,4722,3390,54.1,1791,1254,29,1067,86,3287,1.03,20.2,gus_modeled,2024,sieradz,sieradz|lodzkie
+Zduńska Wola,Łódzkie,powiat,city_small,43000,6500,4940,3547,56.0,1633,1234,29,1045,91,3250,1.09,19.0,numbeo,2024,zdunska wola,zdunska wola|lodzkie
+Bolesławiec,Dolnośląskie,powiat,city_small,42000,7000,5320,3820,60.0,1608,1261,31,1045,93,3319,1.15,18.0,numbeo,2024,boleslawiec,boleslawiec|dolnoslaskie
+Świnoujście,Zachodniopomorskie,miasto na prawach powiatu,city_small,41000,7400,5624,4038,67.0,1667,1240,31,1012,95,3267,1.24,16.8,numbeo,2024,swinoujscie,swinoujscie|zachodniopomorskie
+Świdnik,Lubelskie,powiat,city_small,40000,5346,4063,2917,52.4,1640,1256,31,1032,86,3294,0.89,23.5,gus_modeled,2024,swidnik,swidnik|lubelskie
+Grodzisk Mazowiecki,Mazowieckie,powiat,city_small,40000,7900,6004,4311,68.0,1667,1236,29,1086,91,3293,1.31,15.6,numbeo,2024,grodzisk mazowiecki,grodzisk mazowiecki|mazowieckie
+Wołomin,Mazowieckie,powiat,town,40000,7205,5476,3932,49.7,1421,1069,26,948,72,2909,1.35,14.8,gus_modeled,2024,wolomin,wolomin|mazowieckie
+Żyrardów,Mazowieckie,powiat,town,40000,6800,5168,3711,59.0,1395,1016,25,962,68,2846,1.3,14.9,numbeo,2024,zyrardow,zyrardow|mazowieckie
+Mińsk Mazowiecki,Mazowieckie,powiat,town,40000,7200,5472,3929,62.0,1343,1020,25,986,68,2874,1.37,14.2,numbeo,2024,minsk mazowiecki,minsk mazowiecki|mazowieckie
+Chrzanów,Małopolskie,powiat,city_small,40000,6449,4901,3519,54.3,1747,1271,30,1051,89,3311,1.06,19.7,gus_modeled,2024,chrzanow,chrzanow|malopolskie
+Chojnice,Pomorskie,powiat,city_small,40000,6923,5261,3777,56.2,1654,1345,30,1096,90,3431,1.1,19.4,gus_modeled,2024,chojnice,chojnice|pomorskie
+Krotoszyn,Wielkopolskie,powiat,city_small,40000,6600,5016,3601,57.0,1766,1238,31,1064,94,3316,1.09,18.8,numbeo,2024,krotoszyn,krotoszyn|wielkopolskie
+Szczecinek,Zachodniopomorskie,powiat,city_small,40000,6700,5092,3656,58.0,1650,1351,30,1082,93,3426,1.07,20.2,numbeo,2024,szczecinek,szczecinek|zachodniopomorskie
+Mikołów,Śląskie,powiat,city_small,40000,6668,5068,3639,55.6,1673,1247,31,1071,91,3329,1.09,18.7,gus_modeled,2024,mikolow,mikolow|slaskie
+Żary,Lubuskie,powiat,city_small,39000,5939,4514,3241,53.1,1647,1287,30,1006,95,3288,0.99,21.7,gus_modeled,2024,zary,zary|lubuskie
+Oświęcim,Małopolskie,powiat,city_small,39000,6568,4992,3584,56.3,1762,1357,31,1026,93,3396,1.06,20.7,gus_modeled,2024,oswiecim,oswiecim|malopolskie
+Kwidzyn,Pomorskie,powiat,city_small,39000,6740,5122,3678,54.2,1711,1307,30,1031,87,3325,1.11,19.4,gus_modeled,2024,kwidzyn,kwidzyn|pomorskie
+Chrzanów,Śląskie,powiat,city_small,39000,7200,5472,3929,62.0,1685,1224,29,1090,94,3288,1.19,17.0,numbeo,2024,chrzanow,chrzanow|slaskie
+Oleśnica,Dolnośląskie,powiat,city_small,38000,6659,5061,3634,53.3,1656,1264,29,1054,86,3284,1.11,19.0,gus_modeled,2024,olesnica,olesnica|dolnoslaskie
+Nowa Sól,Lubuskie,powiat,city_medium,38000,6213,4722,3390,58.8,2050,1466,33,1184,104,3714,0.91,23.6,gus_modeled,2024,nowa sol,nowa sol|lubuskie
+Sanok,Podkarpackie,powiat,city_small,38000,5562,4227,3035,50.5,1754,1312,31,1086,95,3413,0.89,23.6,gus_modeled,2024,sanok,sanok|podkarpackie
+Jarosław,Podkarpackie,powiat,city_small,38000,5370,4081,2930,49.6,1727,1227,31,1020,89,3256,0.9,22.8,gus_modeled,2024,jaroslaw,jaroslaw|podkarpackie
+Malbork,Pomorskie,powiat,city_small,38000,6892,5238,3761,53.9,1659,1314,31,1049,86,3369,1.12,19.1,gus_modeled,2024,malbork,malbork|pomorskie
+Sochaczew,Mazowieckie,powiat,town,37000,7548,5736,4118,48.7,1359,1033,27,985,71,2929,1.41,13.7,gus_modeled,2024,sochaczew,sochaczew|mazowieckie
+Olkusz,Małopolskie,powiat,city_small,37000,6698,5090,3655,53.6,1743,1222,31,1054,92,3288,1.11,18.2,gus_modeled,2024,olkusz,olkusz|malopolskie
+Brzeg,Opolskie,powiat,city_small,37000,6111,4644,3334,52.5,1761,1335,29,1061,93,3369,0.99,21.8,gus_modeled,2024,brzeg,brzeg|opolskie
+Jasło,Podkarpackie,powiat,city_small,36000,5551,4219,3029,51.5,1729,1226,31,1085,87,3318,0.91,22.1,gus_modeled,2024,jaslo,jaslo|podkarpackie
+Sopot,Pomorskie,miasto na prawach powiatu,city_medium,36000,10200,7752,5566,96.0,2058,1582,34,1130,107,3799,1.47,15.5,numbeo,2024,sopot,sopot|pomorskie
+Cieszyn,Śląskie,powiat,city_small,36000,7400,5624,4038,64.0,1755,1321,29,1075,91,3367,1.2,17.9,numbeo,2024,cieszyn,cieszyn|slaskie
+Kraśnik,Lubelskie,powiat,city_small,35000,5715,4343,3118,49.4,1773,1245,29,1024,86,3235,0.96,21.8,gus_modeled,2024,krasnik,krasnik|lubelskie
+Lębork,Pomorskie,powiat,city_small,35000,6887,5234,3758,54.3,1733,1350,31,1050,85,3405,1.1,19.6,gus_modeled,2024,lebork,lebork|pomorskie
+Police,Zachodniopomorskie,powiat,city_small,35000,5919,4498,3230,52.8,1735,1338,31,1042,93,3393,0.95,22.6,gus_modeled,2024,police,police|zachodniopomorskie
+Ostróda,Warmińsko-Mazurskie,powiat,city_small,34000,6400,4864,3492,55.0,1692,1308,31,1092,89,3409,1.02,20.4,numbeo,2024,ostroda,ostroda|warminsko-mazurskie
+Iława,Warmińsko-Mazurskie,powiat,city_small,34000,5738,4361,3131,52.1,1664,1296,29,1004,86,3266,0.96,22.6,gus_modeled,2024,ilawa,ilawa|warminsko-mazurskie
+Nowy Targ,Małopolskie,powiat,town,33000,6224,4730,3396,46.5,1358,987,25,973,71,2831,1.2,15.9,gus_modeled,2024,nowy targ,nowy targ|malopolskie
+Czeladź,Śląskie,powiat,town,33000,6218,4726,3393,48.0,1395,1060,27,988,67,2955,1.15,17.0,gus_modeled,2024,czeladz,czeladz|slaskie
+Dzierżoniów,Dolnośląskie,powiat,city_small,32000,6843,5201,3734,55.8,1701,1352,30,1092,93,3437,1.09,19.8,gus_modeled,2024,dzierzoniow,dzierzoniow|dolnoslaskie
+Oława,Dolnośląskie,powiat,city_small,32000,6636,5043,3621,55.7,1742,1232,30,1054,89,3275,1.11,18.6,gus_modeled,2024,olawa,olawa|dolnoslaskie
+Zgorzelec,Dolnośląskie,powiat,city_small,32000,6900,5244,3765,61.0,1640,1288,31,1059,92,3359,1.12,18.7,numbeo,2024,zgorzelec,zgorzelec|dolnoslaskie
+Myszków,Śląskie,powiat,city_small,32000,6235,4739,3403,52.6,1666,1296,30,1061,90,3347,1.02,20.8,gus_modeled,2024,myszkow,myszkow|slaskie
+Augustów,Podlaskie,powiat,city_small,31000,6400,4864,3492,55.0,1607,1225,31,1088,91,3324,1.05,19.1,numbeo,2024,augustow,augustow|podlaskie
+Pruszcz Gdański,Pomorskie,powiat,town,31000,6391,4857,3487,49.4,1308,1056,26,1021,70,2967,1.18,16.5,gus_modeled,2024,pruszcz gdanski,pruszcz gdanski|pomorskie
+Żywiec,Śląskie,powiat,city_small,31000,6381,4850,3482,54.5,1631,1377,31,1029,88,3414,1.02,21.6,gus_modeled,2024,zywiec,zywiec|slaskie
+Łuków,Lubelskie,powiat,town,30000,4946,3759,2699,45.5,1354,1081,26,1007,70,2978,0.91,21.9,gus_modeled,2024,lukow,lukow|lubelskie
+Nowy Dwór Mazowiecki,Mazowieckie,powiat,town,30000,7129,5418,3890,49.5,1285,1022,26,967,69,2878,1.35,14.3,gus_modeled,2024,nowy dwor mazowiecki,nowy dwor mazowiecki|mazowieckie
+Mlawa,Mazowieckie,powiat,town,30000,6400,4864,3492,55.0,1373,1064,25,1006,70,2940,1.19,16.6,numbeo,2024,mlawa,mlawa|mazowieckie
+Bochnia,Małopolskie,powiat,town,30000,6500,4940,3547,57.0,1288,1109,25,1025,68,3002,1.18,17.1,numbeo,2024,bochnia,bochnia|malopolskie
+Gorlice,Małopolskie,powiat,town,30000,6118,4650,3339,46.5,1290,1040,27,997,73,2950,1.13,17.0,gus_modeled,2024,gorlice,gorlice|malopolskie
+Giżycko,Podlaskie,powiat,town,30000,6600,5016,3601,57.0,1372,1066,27,992,67,2965,1.21,16.2,numbeo,2024,gizycko,gizycko|podlaskie
+Giżycko,Warmińsko-Mazurskie,powiat,town,30000,6600,5016,3601,57.0,1366,1086,26,937,67,2910,1.24,16.5,numbeo,2024,gizycko,gizycko|warminsko-mazurskie
+Łowicz,Łódzkie,powiat,town,29000,5892,4478,3215,47.4,1281,1008,25,1004,71,2883,1.12,17.1,gus_modeled,2024,lowicz,lowicz|lodzkie
+Bielawa,Dolnośląskie,powiat,town,28000,6305,4792,3441,48.0,1305,1015,26,934,69,2838,1.21,16.1,gus_modeled,2024,bielawa,bielawa|dolnoslaskie
+Brodnica,Kujawsko-Pomorskie,powiat,city_small,28000,5952,4524,3248,53.0,1685,1261,31,1018,89,3288,0.99,21.2,gus_modeled,2024,brodnica,brodnica|kujawsko-pomorskie
+Wyszkow,Mazowieckie,powiat,town,28000,7427,5645,4053,52.2,1334,1015,27,981,67,2903,1.4,13.7,gus_modeled,2024,wyszkow,wyszkow|mazowieckie
+Kętrzyn,Warmińsko-Mazurskie,powiat,town,28000,5352,4068,2921,44.0,1385,1051,25,955,69,2875,1.02,19.6,gus_modeled,2024,ketrzyn,ketrzyn|warminsko-mazurskie
+Turek,Wielkopolskie,powiat,town,28000,5769,4384,3148,47.9,1404,998,27,955,70,2863,1.1,17.3,gus_modeled,2024,turek,turek|wielkopolskie
+Biłgoraj,Lubelskie,powiat,town,27000,5212,3961,2844,45.9,1374,1084,27,952,70,2946,0.97,20.8,gus_modeled,2024,bilgoraj,bilgoraj|lubelskie
+Zakopane,Małopolskie,powiat,town,27000,6900,5244,3765,74.0,1300,1028,27,1026,68,2962,1.27,14.9,numbeo,2024,zakopane,zakopane|malopolskie
+Bielsk Podlaski,Podlaskie,powiat,town,27000,5134,3902,2802,43.4,1301,1063,27,995,67,2965,0.95,20.7,gus_modeled,2024,bielsk podlaski,bielsk podlaski|podlaskie
+Kłodzko,Dolnośląskie,powiat,city_small,26000,6768,5144,3693,54.0,1648,1321,31,1052,91,3384,1.09,19.5,gus_modeled,2024,klodzko,klodzko|dolnoslaskie
+Świecie,Kujawsko-Pomorskie,powiat,city_small,26000,5743,4365,3134,52.6,1713,1346,29,1006,94,3326,0.94,23.4,gus_modeled,2024,swiecie,swiecie|kujawsko-pomorskie
+Żagań,Lubuskie,powiat,city_small,26000,5787,4398,3158,54.2,1720,1225,30,1023,86,3234,0.98,21.2,gus_modeled,2024,zagan,zagan|lubuskie
+Jarocin,Wielkopolskie,powiat,city_small,26000,6500,4940,3547,55.0,1742,1290,31,1099,88,3397,1.04,19.8,numbeo,2024,jarocin,jarocin|wielkopolskie
+Wągrowiec,Wielkopolskie,powiat,town,26000,5930,4507,3236,46.1,1274,1094,25,952,73,2919,1.11,18.4,gus_modeled,2024,wagrowiec,wagrowiec|wielkopolskie
+Pszczyna,Śląskie,powiat,town,26000,5988,4551,3268,48.5,1406,999,26,958,66,2843,1.15,16.7,gus_modeled,2024,pszczyna,pszczyna|slaskie
+Końskie,Świętokrzyskie,powiat,town,26000,5051,3839,2756,44.5,1319,1089,26,1013,69,2991,0.92,21.6,gus_modeled,2024,konskie,konskie|swietokrzyskie
+Łomianki,Mazowieckie,powiat,town,25000,7206,5477,3932,52.4,1411,1027,26,970,73,2890,1.36,14.3,gus_modeled,2024,lomianki,lomianki|mazowieckie
+Skawina,Małopolskie,powiat,town,25000,7200,5472,3929,65.0,1373,1037,27,984,74,2935,1.34,14.4,numbeo,2024,skawina,skawina|malopolskie
+Sandomierz,Świętokrzyskie,powiat,town,25000,5253,3992,2866,46.3,1344,1023,26,983,74,2900,0.99,19.5,gus_modeled,2024,sandomierz,sandomierz|swietokrzyskie
+Świebodzice,Dolnośląskie,powiat,town,24000,6800,5168,3711,58.5,1379,1038,25,977,67,2882,1.29,15.3,numbeo,2024,swiebodzice,swiebodzice|dolnoslaskie
+Kluczbork,Opolskie,powiat,town,24000,6400,4864,3492,54.0,1357,1027,25,996,68,2891,1.21,16.0,numbeo,2024,kluczbork,kluczbork|opolskie
+Kościerzyna,Pomorskie,powiat,town,24000,6249,4749,3410,47.7,1284,1112,27,976,67,2995,1.14,17.8,gus_modeled,2024,koscierzyna,koscierzyna|pomorskie
+Bartoszyce,Warmińsko-Mazurskie,powiat,town,24000,5162,3923,2817,44.8,1295,1034,25,971,69,2874,0.98,20.0,gus_modeled,2024,bartoszyce,bartoszyce|warminsko-mazurskie
+Szczytno,Warmińsko-Mazurskie,powiat,town,24000,5342,4060,2915,44.0,1363,1005,26,1026,72,2923,1.0,18.8,gus_modeled,2024,szczytno,szczytno|warminsko-mazurskie
+Wieluń,Łódzkie,powiat,town,24000,5859,4453,3197,46.4,1423,1113,26,957,66,2956,1.08,19.0,gus_modeled,2024,wielun,wielun|lodzkie
+Lubliniec,Śląskie,powiat,town,24000,6500,4940,3547,55.0,1357,1092,26,946,67,2925,1.21,16.8,numbeo,2024,lubliniec,lubliniec|slaskie
+Kluczbork,Śląskie,powiat,town,24000,6400,4864,3492,54.0,1319,1100,27,1015,73,3028,1.15,17.2,numbeo,2024,kluczbork,kluczbork|slaskie
+Ostrów Mazowiecka,Mazowieckie,powiat,town,23000,7125,5415,3888,52.5,1373,1044,26,965,73,2902,1.34,14.7,gus_modeled,2024,ostrow mazowiecka,ostrow mazowiecka|mazowieckie
+Wieliczka,Małopolskie,powiat,town,23000,7500,5700,4093,67.0,1344,1025,27,953,66,2884,1.42,13.7,numbeo,2024,wieliczka,wieliczka|malopolskie
+Prudnik,Opolskie,powiat,town,23000,5693,4327,3107,44.5,1428,1106,25,993,69,2968,1.05,19.4,gus_modeled,2024,prudnik,prudnik|opolskie
+Mrągowo,Warmińsko-Mazurskie,powiat,town,23000,6400,4864,3492,55.0,1379,1023,27,995,73,2931,1.19,16.0,numbeo,2024,mragowo,mragowo|warminsko-mazurskie
+Działdowo,Warmińsko-Mazurskie,powiat,town,23000,6300,4788,3438,53.0,1332,1062,27,961,69,2932,1.17,16.9,numbeo,2024,dzialdowo,dzialdowo|warminsko-mazurskie
+Białogard,Zachodniopomorskie,powiat,town,23000,5847,4444,3191,44.3,1307,990,27,986,73,2889,1.1,16.9,gus_modeled,2024,bialogard,bialogard|zachodniopomorskie
+Polkowice,Dolnośląskie,powiat,town,22000,8500,6460,4638,70.0,1408,1083,26,932,69,2904,1.6,12.7,numbeo,2024,polkowice,polkowice|dolnoslaskie
+Lubartów,Lubelskie,powiat,town,22000,5195,3948,2835,42.6,1271,1087,25,963,67,2917,0.97,20.9,gus_modeled,2024,lubartow,lubartow|lubelskie
+Świebodzin,Lubuskie,powiat,town,22000,5341,4059,2914,45.7,1351,1112,26,969,70,2971,0.98,20.8,gus_modeled,2024,swiebodzin,swiebodzin|lubuskie
+Andrychów,Małopolskie,powiat,town,22000,5974,4540,3260,45.4,1320,1006,26,971,72,2869,1.14,16.8,gus_modeled,2024,andrychow,andrychow|malopolskie
+Grajewo,Podlaskie,powiat,city_small,22000,5695,4328,3108,52.6,1683,1240,29,1032,93,3245,0.96,21.8,gus_modeled,2024,grajewo,grajewo|podlaskie
+Zambrów,Podlaskie,powiat,town,22000,5294,4023,2889,46.2,1418,998,27,955,71,2864,1.01,18.9,gus_modeled,2024,zambrow,zambrow|podlaskie
+Koło,Wielkopolskie,powiat,town,22000,6400,4864,3492,54.0,1400,1055,26,974,72,2921,1.2,16.5,numbeo,2024,kolo,kolo|wielkopolskie
+Goleniów,Zachodniopomorskie,powiat,town,22000,5428,4125,2962,46.1,1343,1072,26,988,73,2953,1.0,19.7,gus_modeled,2024,goleniow,goleniow|zachodniopomorskie
+Opoczno,Łódzkie,powiat,town,22000,5609,4263,3061,44.6,1381,1075,27,980,70,2965,1.03,19.2,gus_modeled,2024,opoczno,opoczno|lodzkie
+Hajnówka,Podlaskie,powiat,town,21000,5083,3863,2774,44.9,1416,1031,27,1011,73,2955,0.94,20.3,gus_modeled,2024,hajnowka,hajnowka|podlaskie
+Środa Wielkopolska,Wielkopolskie,powiat,town,21000,5982,4546,3264,46.5,1392,1074,26,979,72,2945,1.11,18.0,gus_modeled,2024,sroda wielkopolska,sroda wielkopolska|wielkopolskie
+Gostyń,Wielkopolskie,powiat,town,21000,5687,4322,3103,45.4,1381,1026,26,977,70,2893,1.07,18.0,gus_modeled,2024,gostyn,gostyn|wielkopolskie
+Rawicz,Wielkopolskie,powiat,town,21000,5843,4441,3189,47.5,1323,1076,25,956,67,2899,1.1,18.4,gus_modeled,2024,rawicz,rawicz|wielkopolskie
+Nakło nad Notecią,Kujawsko-Pomorskie,powiat,town,20000,5260,3998,2871,46.7,1415,1072,25,974,69,2915,0.98,20.4,gus_modeled,2024,naklo nad notecia,naklo nad notecia|kujawsko-pomorskie
+Gostynin,Mazowieckie,powiat,small_town,20000,7109,5403,3879,45.3,1139,851,22,892,53,2536,1.53,12.0,gus_modeled,2024,gostynin,gostynin|mazowieckie
+Wadowice,Małopolskie,powiat,town,20000,6800,5168,3711,59.0,1287,1097,27,953,73,2963,1.25,16.1,numbeo,2024,wadowice,wadowice|malopolskie
+Sokółka,Podlaskie,powiat,town,20000,5254,3993,2867,44.4,1319,1030,26,947,70,2867,1.0,19.6,gus_modeled,2024,sokolka,sokolka|podlaskie
+Szamotuły,Wielkopolskie,powiat,town,20000,5803,4410,3166,48.1,1383,1022,25,1024,67,2913,1.09,17.6,gus_modeled,2024,szamotuly,szamotuly|wielkopolskie
+Kamienna Góra,Dolnośląskie,powiat,small_town,19000,5972,4539,3259,43.5,1067,807,22,924,58,2529,1.29,13.5,gus_modeled,2024,kamienna gora,kamienna gora|dolnoslaskie
+Hrubieszów,Lubelskie,powiat,town,19000,4969,3776,2711,44.5,1422,992,27,1016,70,2918,0.93,20.0,gus_modeled,2024,hrubieszow,hrubieszow|lubelskie
+Trzebinia,Małopolskie,powiat,town,19000,6184,4700,3375,48.2,1421,1102,25,1017,67,2986,1.13,17.8,gus_modeled,2024,trzebinia,trzebinia|malopolskie
+Pisz,Warmińsko-Mazurskie,powiat,small_town,19000,4946,3759,2699,40.8,1122,884,24,937,55,2656,1.02,17.9,gus_modeled,2024,pisz,pisz|warminsko-mazurskie
+Chełmno,Kujawsko-Pomorskie,powiat,small_town,18000,5151,3915,2811,39.2,1154,814,23,897,53,2524,1.11,15.8,gus_modeled,2024,chelmno,chelmno|kujawsko-pomorskie
+Sierpc,Mazowieckie,powiat,town,18000,7399,5623,4037,49.7,1373,1001,26,975,74,2870,1.41,13.5,gus_modeled,2024,sierpc,sierpc|mazowieckie
+Pułtusk,Mazowieckie,powiat,small_town,18000,7081,5382,3864,43.8,1100,817,24,954,54,2605,1.48,11.5,gus_modeled,2024,pultusk,pultusk|mazowieckie
+Kozienice,Mazowieckie,powiat,town,18000,7541,5731,4115,50.7,1269,1028,25,1022,73,2923,1.41,13.6,gus_modeled,2024,kozienice,kozienice|mazowieckie
+Sokołów Podlaski,Mazowieckie,powiat,small_town,18000,7079,5380,3863,44.5,1062,854,24,893,54,2581,1.5,12.1,gus_modeled,2024,sokolow podlaski,sokolow podlaski|mazowieckie
+Strzelce Opolskie,Opolskie,powiat,city_small,18000,5959,4529,3252,52.1,1739,1277,29,1089,88,3334,0.98,21.4,gus_modeled,2024,strzelce opolskie,strzelce opolskie|opolskie
+Łańcut,Podkarpackie,powiat,town,18000,4950,3762,2701,43.7,1386,1085,26,939,66,2910,0.93,21.9,gus_modeled,2024,lancut,lancut|podkarpackie
+Łask,Łódzkie,powiat,town,18000,5910,4492,3225,45.6,1393,1059,26,970,71,2920,1.1,17.9,gus_modeled,2024,lask,lask|lodzkie
+Myślenice,Małopolskie,powiat,town,17000,6286,4777,3430,48.0,1328,996,26,963,68,2847,1.2,15.8,gus_modeled,2024,myslenice,myslenice|malopolskie
+Bytów,Pomorskie,powiat,small_town,17000,5891,4477,3214,42.3,1065,878,22,943,56,2617,1.23,14.9,gus_modeled,2024,bytow,bytow|pomorskie
+Pleszew,Wielkopolskie,powiat,small_town,17000,5343,4061,2916,39.6,1105,877,22,894,55,2566,1.14,16.4,gus_modeled,2024,pleszew,pleszew|wielkopolskie
+Lędziny,Śląskie,powiat,town,17000,6151,4675,3357,47.0,1384,1025,27,967,71,2903,1.16,16.7,gus_modeled,2024,ledziny,ledziny|slaskie
+Radzionków,Śląskie,powiat,town,17000,6224,4730,3396,47.2,1398,1078,26,934,70,2902,1.17,17.3,gus_modeled,2024,radzionkow,radzionkow|slaskie
+Busko-Zdrój,Świętokrzyskie,powiat,town,17000,4910,3732,2680,45.7,1407,1023,27,958,73,2894,0.93,20.8,gus_modeled,2024,busko-zdroj,busko-zdroj|swietokrzyskie
+Złotoryja,Dolnośląskie,powiat,small_town,16000,5836,4435,3184,40.3,1084,821,23,944,54,2579,1.23,14.1,gus_modeled,2024,zlotoryja,zlotoryja|dolnoslaskie
+Rypin,Kujawsko-Pomorskie,powiat,small_town,16000,5095,3872,2780,39.2,1109,858,24,901,58,2597,1.07,16.8,gus_modeled,2024,rypin,rypin|kujawsko-pomorskie
+Radzyń Podlaski,Lubelskie,powiat,town,16000,5112,3885,2789,46.4,1279,1047,26,998,70,2935,0.95,20.5,gus_modeled,2024,radzyn podlaski,radzyn podlaski|lubelskie
+Garwolin,Mazowieckie,powiat,small_town,16000,6637,5044,3622,45.8,1135,812,23,925,53,2550,1.42,12.2,gus_modeled,2024,garwolin,garwolin|mazowieckie
+Namysłów,Opolskie,powiat,small_town,16000,4925,3743,2687,41.3,1082,838,23,930,56,2584,1.04,17.0,gus_modeled,2024,namyslow,namyslow|opolskie
+Ropczyce,Podkarpackie,powiat,small_town,16000,4701,3573,2565,39.7,1135,841,23,920,56,2577,1.0,17.9,gus_modeled,2024,ropczyce,ropczyce|podkarpackie
+Strzyżów,Podkarpackie,powiat,small_town,16000,4593,3491,2507,40.9,1098,881,23,901,52,2594,0.97,19.2,gus_modeled,2024,strzyzow,strzyzow|podkarpackie
+Przeworsk,Podkarpackie,powiat,small_town,16000,4660,3542,2543,38.2,1067,809,23,909,56,2534,1.0,17.4,gus_modeled,2024,przeworsk,przeworsk|podkarpackie
+Nisko,Podkarpackie,powiat,town,16000,5201,3953,2838,43.1,1326,993,26,1017,71,2901,0.98,19.1,gus_modeled,2024,nisko,nisko|podkarpackie
+Siemiatycze,Podlaskie,powiat,small_town,16000,4994,3795,2725,39.6,1134,877,23,959,55,2651,1.03,17.6,gus_modeled,2024,siemiatycze,siemiatycze|podlaskie
+Kartuzy,Pomorskie,powiat,town,16000,7400,5624,4038,65.0,1289,1110,26,954,67,2951,1.37,15.0,numbeo,2024,kartuzy,kartuzy|pomorskie
+Nowy Dwór Gdański,Pomorskie,powiat,small_town,16000,5608,4262,3060,41.2,1166,872,23,945,57,2634,1.16,15.5,gus_modeled,2024,nowy dwor gdanski,nowy dwor gdanski|pomorskie
+Jędrzejów,Świętokrzyskie,powiat,town,16000,5200,3952,2838,45.6,1291,1019,26,1017,70,2926,0.97,19.6,gus_modeled,2024,jedrzejow,jedrzejow|swietokrzyskie
+Lipno,Kujawsko-Pomorskie,powiat,small_town,15000,5166,3926,2819,39.3,1109,869,24,879,56,2584,1.09,16.8,gus_modeled,2024,lipno,lipno|kujawsko-pomorskie
+Sulęcin,Lubuskie,powiat,small_town,15000,5211,3960,2843,42.3,1067,801,24,906,57,2544,1.12,15.4,gus_modeled,2024,sulecin,sulecin|lubuskie
+Przasnysz,Mazowieckie,powiat,small_town,15000,7068,5372,3857,44.6,1153,844,22,937,57,2578,1.5,11.9,gus_modeled,2024,przasnysz,przasnysz|mazowieckie
+Limanowa,Małopolskie,powiat,small_town,15000,5817,4421,3174,41.7,1092,821,23,957,57,2595,1.22,14.1,gus_modeled,2024,limanowa,limanowa|malopolskie
+Głogów Małopolski,Małopolskie,powiat,small_town,15000,6100,4636,3329,52.0,1056,808,23,932,54,2554,1.3,13.2,numbeo,2024,glogow malopolski,glogow malopolski|malopolskie
+Libiąż,Małopolskie,powiat,town,15000,6188,4703,3377,47.3,1421,1094,26,950,67,2931,1.15,17.7,gus_modeled,2024,libiaz,libiaz|malopolskie
+Głogów Małopolski,Podkarpackie,powiat,small_town,15000,6100,4636,3329,52.0,1122,804,23,929,52,2545,1.31,13.2,numbeo,2024,glogow malopolski,glogow malopolski|podkarpackie
+Leżajsk,Podkarpackie,powiat,town,15000,5013,3810,2736,44.3,1350,1026,25,1024,70,2920,0.94,20.5,gus_modeled,2024,lezajsk,lezajsk|podkarpackie
+Łęczyca,Łódzkie,powiat,small_town,15000,5228,3973,2853,39.7,1127,871,23,937,58,2626,1.09,16.7,gus_modeled,2024,leczyca,leczyca|lodzkie
+Staszów,Świętokrzyskie,powiat,small_town,15000,4715,3583,2573,39.4,1146,843,24,941,57,2621,0.98,17.9,gus_modeled,2024,staszow,staszow|swietokrzyskie
+Wschowa,Lubuskie,powiat,small_town,14000,5269,4004,2875,40.2,1073,803,22,878,58,2479,1.16,15.2,gus_modeled,2024,wschowa,wschowa|lubuskie
+Dąbrowa Tarnowska,Małopolskie,powiat,small_town,14000,5691,4325,3105,43.8,1142,896,24,901,54,2631,1.18,15.7,gus_modeled,2024,dabrowa tarnowska,dabrowa tarnowska|malopolskie
+Człuchów,Pomorskie,powiat,small_town,14000,5801,4409,3166,42.4,1149,888,23,922,55,2625,1.21,15.3,gus_modeled,2024,czluchow,czluchow|pomorskie
+Nowe Miasto Lubawskie,Warmińsko-Mazurskie,powiat,small_town,14000,4890,3716,2668,39.2,1082,836,22,894,58,2528,1.06,17.1,gus_modeled,2024,nowe miasto lubawskie,nowe miasto lubawskie|warminsko-mazurskie
+Kępno,Wielkopolskie,powiat,small_town,14000,5576,4238,3043,43.1,1103,828,22,892,53,2513,1.21,14.8,gus_modeled,2024,kepno,kepno|wielkopolskie
+Kłobuck,Śląskie,powiat,town,14000,6135,4663,3348,46.2,1421,1082,25,981,70,2933,1.14,17.6,gus_modeled,2024,klobuck,klobuck|slaskie
+Tuchola,Kujawsko-Pomorskie,powiat,small_town,13000,5100,3876,2783,41.8,1072,880,23,906,56,2602,1.07,17.3,gus_modeled,2024,tuchola,tuchola|kujawsko-pomorskie
+Janów Lubelski,Lubelskie,powiat,small_town,13000,4936,3751,2693,38.0,1045,861,22,899,56,2556,1.05,17.4,gus_modeled,2024,janow lubelski,janow lubelski|lubelskie
+Włodawa,Lubelskie,powiat,small_town,13000,4798,3646,2618,38.7,1165,853,23,930,52,2595,1.01,17.8,gus_modeled,2024,wlodawa,wlodawa|lubelskie
+Lubaczów,Podkarpackie,powiat,small_town,13000,4760,3618,2598,40.5,1163,812,23,926,54,2552,1.02,17.1,gus_modeled,2024,lubaczow,lubaczow|podkarpackie
+Brzeg Dolny,Dolnośląskie,powiat,small_town,12000,5911,4492,3225,40.2,1086,857,22,933,53,2583,1.25,14.5,gus_modeled,2024,brzeg dolny,brzeg dolny|dolnoslaskie
+Zwoleń,Mazowieckie,powiat,small_town,12000,7056,5363,3851,44.0,1042,889,24,882,55,2606,1.48,12.6,gus_modeled,2024,zwolen,zwolen|mazowieckie
+Węgrów,Mazowieckie,powiat,small_town,12000,7146,5431,3899,45.4,1092,852,22,895,54,2541,1.53,11.9,gus_modeled,2024,wegrow,wegrow|mazowieckie
+Niepołomice,Małopolskie,powiat,town,12000,6195,4708,3380,46.2,1427,1024,25,951,72,2847,1.19,16.5,gus_modeled,2024,niepolomice,niepolomice|malopolskie
+Miechów,Małopolskie,powiat,small_town,12000,5945,4518,3244,42.6,1052,862,23,896,56,2574,1.26,14.5,gus_modeled,2024,miechow,miechow|malopolskie
+Głubczyce,Opolskie,powiat,small_town,12000,5225,3971,2851,40.9,1160,814,23,946,52,2572,1.11,15.6,gus_modeled,2024,glubczyce,glubczyce|opolskie
+Nowa Dęba,Podkarpackie,powiat,town,12000,5056,3843,2759,45.6,1360,1091,25,935,71,2897,0.95,21.6,gus_modeled,2024,nowa deba,nowa deba|podkarpackie
+Brzozów,Podkarpackie,powiat,small_town,12000,4508,3426,2460,38.9,1098,820,23,903,56,2539,0.97,18.2,gus_modeled,2024,brzozow,brzozow|podkarpackie
+Puck,Pomorskie,powiat,small_town,12000,5903,4486,3221,41.6,1120,815,23,963,54,2592,1.24,13.8,gus_modeled,2024,puck,puck|pomorskie
+Drawsko Pomorskie,Zachodniopomorskie,powiat,small_town,12000,5145,3910,2807,38.9,1143,892,23,912,53,2617,1.07,17.3,gus_modeled,2024,drawsko pomorskie,drawsko pomorskie|zachodniopomorskie
+Milicz,Dolnośląskie,powiat,small_town,11000,5783,4395,3156,42.7,1137,865,24,961,53,2659,1.19,15.0,gus_modeled,2024,milicz,milicz|dolnoslaskie
+Krosno Odrzańskie,Lubuskie,powiat,small_town,11000,5208,3958,2842,41.4,1131,833,22,924,57,2554,1.11,16.0,gus_modeled,2024,krosno odrzanskie,krosno odrzanskie|lubuskie
+Kolno,Podlaskie,powiat,small_town,11000,5041,3831,2751,41.0,1067,864,23,886,54,2564,1.07,17.1,gus_modeled,2024,kolno,kolno|podlaskie
+Pińczów,Świętokrzyskie,powiat,small_town,11000,4854,3689,2649,39.8,1138,813,23,950,56,2579,1.03,16.7,gus_modeled,2024,pinczow,pinczow|swietokrzyskie
+Strzelce Krajeńskie,Lubuskie,powiat,small_town,10000,5021,3816,2740,41.5,1095,870,23,949,52,2631,1.04,17.3,gus_modeled,2024,strzelce krajenskie,strzelce krajenskie|lubuskie
+Krzeszowice,Małopolskie,powiat,town,10000,5922,4501,3232,47.5,1420,1038,27,1017,70,2965,1.09,17.5,gus_modeled,2024,krzeszowice,krzeszowice|malopolskie
+Bukowno,Małopolskie,powiat,town,10000,6374,4844,3478,49.3,1333,1049,27,1025,74,2988,1.16,16.5,gus_modeled,2024,bukowno,bukowno|malopolskie
+Wolbrom,Małopolskie,powiat,town,10000,6352,4828,3467,45.4,1361,1001,27,959,74,2874,1.21,15.8,gus_modeled,2024,wolbrom,wolbrom|malopolskie
+Ustrzyki Dolne,Podkarpackie,powiat,small_town,10000,4587,3486,2503,40.1,1049,843,23,936,55,2594,0.96,18.4,gus_modeled,2024,ustrzyki dolne,ustrzyki dolne|podkarpackie
+Wysokie Mazowieckie,Podlaskie,powiat,small_town,10000,4900,3724,2674,39.7,1056,895,22,935,56,2626,1.02,18.3,gus_modeled,2024,wysokie mazowieckie,wysokie mazowieckie|podlaskie
+Kamień Pomorski,Zachodniopomorskie,powiat,small_town,10000,6600,5016,3601,58.0,1159,830,23,883,58,2531,1.42,12.6,numbeo,2024,kamien pomorski,kamien pomorski|zachodniopomorskie
+Kazimierza Wielka,Świętokrzyskie,powiat,small_town,10000,4592,3490,2506,39.0,1159,822,23,906,52,2540,0.99,17.9,gus_modeled,2024,kazimierza wielka,kazimierza wielka|swietokrzyskie
+Włoszczowa,Świętokrzyskie,powiat,small_town,10000,4557,3463,2486,39.2,1065,900,23,877,58,2595,0.96,19.7,gus_modeled,2024,wloszczowa,wloszczowa|swietokrzyskie
+Opatów,Świętokrzyskie,powiat,small_town,10000,4675,3553,2551,38.8,1109,819,23,881,55,2515,1.01,17.5,gus_modeled,2024,opatow,opatow|swietokrzyskie
+Sucha Beskidzka,Małopolskie,powiat,small_town,9600,5631,4280,3073,40.3,1131,850,23,926,53,2589,1.19,15.1,gus_modeled,2024,sucha beskidzka,sucha beskidzka|malopolskie
+Maków Mazowiecki,Mazowieckie,powiat,small_town,9400,6742,5124,3679,44.5,1166,828,24,919,53,2580,1.43,12.3,gus_modeled,2024,makow mazowiecki,makow mazowiecki|mazowieckie
+Sępólno Krajeńskie,Kujawsko-Pomorskie,powiat,small_town,9000,5151,3915,2811,40.9,1129,866,24,932,58,2636,1.07,16.8,gus_modeled,2024,sepolno krajenskie,sepolno krajenskie|kujawsko-pomorskie
+Żuromin,Mazowieckie,powiat,small_town,9000,6775,5149,3697,44.1,1043,854,24,952,56,2642,1.4,12.6,gus_modeled,2024,zuromin,zuromin|mazowieckie
+Rabka-Zdrój,Małopolskie,powiat,small_town,9000,5821,4424,3176,42.0,1075,817,24,905,54,2556,1.24,14.0,gus_modeled,2024,rabka-zdroj,rabka-zdroj|malopolskie
+Wielka Wieś,Małopolskie,powiat,small_town,9000,5608,4262,3060,43.7,1076,865,24,882,55,2582,1.19,15.4,gus_modeled,2024,wielka wies,wielka wies|malopolskie
+Maków Podhalański,Małopolskie,powiat,small_town,8000,5939,4514,3241,43.4,1131,805,22,893,54,2492,1.3,13.6,gus_modeled,2024,makow podhalanski,makow podhalanski|malopolskie
+Proszowice,Małopolskie,powiat,small_town,8000,5845,4442,3189,41.2,1092,825,23,893,55,2533,1.26,14.1,gus_modeled,2024,proszowice,proszowice|malopolskie
+Tuchów,Małopolskie,powiat,small_town,7200,5662,4303,3090,41.3,1157,880,22,885,56,2561,1.21,15.5,gus_modeled,2024,tuchow,tuchow|malopolskie
+Dobczyce,Małopolskie,powiat,small_town,7000,5871,4462,3204,42.7,1119,870,23,892,53,2575,1.24,14.8,gus_modeled,2024,dobczyce,dobczyce|malopolskie
+Połaniec,Świętokrzyskie,powiat,small_town,7000,4826,3668,2634,38.4,1165,868,22,964,54,2626,1.0,18.0,gus_modeled,2024,polaniec,polaniec|swietokrzyskie
+Lesko,Podkarpackie,powiat,small_town,5800,4544,3453,2479,39.6,1123,827,23,919,55,2561,0.97,18.2,gus_modeled,2024,lesko,lesko|podkarpackie
+Sejny,Podlaskie,powiat,small_town,5800,4740,3602,2586,38.3,1056,832,23,906,58,2556,1.01,17.6,gus_modeled,2024,sejny,sejny|podlaskie
+Słomniki,Małopolskie,powiat,small_town,5000,5760,4378,3143,42.4,1041,841,23,883,57,2541,1.24,14.6,gus_modeled,2024,slomniki,slomniki|malopolskie
+Kazimierz Dolny,Lubelskie,powiat,small_town,3800,4887,3714,2667,39.9,1058,898,23,958,52,2668,1.0,18.4,gus_modeled,2024,kazimierz dolny,kazimierz dolny|lubelskie
+Kańczuga,Podkarpackie,powiat,small_town,2700,4578,3479,2498,40.6,1055,832,23,903,57,2552,0.98,18.2,gus_modeled,2024,kanczuga,kanczuga|podkarpackie
